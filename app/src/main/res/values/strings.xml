@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Road_Safety_Pedistrian</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="signuphere">If you do not have an account, Sign Up</string>
+    <string name="signup">SignUp</string>
+    <string name="fullname">Full name</string>
+    <string name="email">Email</string>
+    <string name="loginhere">Already have an account? Login</string>
+
+    <string name="service_already_running">Service is already running</string>
+    <string name="service_start_successfully">Service started successfully</string>
+    <string name="gps_enable">GPS enable</string>
+    <string name="please_turn_on_gps">Please turn on GPS</string>
+    <string name="ok">Ok</string>
+
+    <string name="background_location_permission_message">
+         -Allow only while using the app- permission has been granted. If you want
+        to get location updates in the background even when not using the app then grant
+        -Allow all the time- permission
+    </string>
+</resources>
